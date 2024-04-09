@@ -39,6 +39,14 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div> 
 
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width ="390em" align="center" src="https://github-readme-stats.vercel.app/api?username=RafaelDiasCmp&show_icons=true&theme=dark&count_private=true&theme=react&border_radius=10" alt="streak stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-RafaelDiasCmp.vercel.app/api/top-langs/?username=RafaelDiasCmp&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
 
 
 
