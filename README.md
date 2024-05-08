@@ -4,10 +4,6 @@
 
 <div align="center">
   
-  🌌 Estudando ***JavaScript e BootsTrap***
-  
-  🌠 Aspirante de Júnior <sub>por enquanto</sub>
-
   💫 Quer trocar algumas figurinhas? [clique aqui](https://github.com/RafaelDiasCmp/RafaelDiasCmp/issues)
 </div>
 
