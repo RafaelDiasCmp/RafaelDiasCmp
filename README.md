@@ -1,12 +1,15 @@
 <h2 align="left">Hi 👋! My name is Rafael Dias!</h2>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
+</div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RafaelDiasCmp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false" height="120" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaelDiasCmp&theme=one-dark" height="120" alt="activity-graph graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=RafaelDiasCmp&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=false" height="120" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RafaelDiasCmp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaelDiasCmp&theme=one-dark" height="150" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=RafaelDiasCmp&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
 
 ###
@@ -54,16 +57,6 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="800" src="[https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHdodnN2cmhvdHp3M2NpOHhqNjJ0cTV4Z3RxcTVoaTZsa3Y1bnhkbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26DoiqmYcxgFICb3G/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHdodnN2cmhvdHp3M2NpOHhqNjJ0cTV4Z3RxcTVoaTZsa3Y1bnhkbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26DoiqmYcxgFICb3G/giphy.gif)"  />
-</div>
-
-###
 
 <br clear="both">
 
