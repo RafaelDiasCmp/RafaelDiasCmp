@@ -4,9 +4,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RafaelDiasCmp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false" height="130" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaelDiasCmp&theme=one-dark" height="130" alt="activity-graph graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=RafaelDiasCmp&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=false" height="130" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RafaelDiasCmp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false" height="120" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaelDiasCmp&theme=one-dark" height="120" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=RafaelDiasCmp&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=false" height="120" alt="stats graph"  />
 </div>
 
 ###
